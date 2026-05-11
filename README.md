@@ -68,3 +68,19 @@ The model generates predicted segmentation masks for breast ultrasound images. T
 
 ```bash
 git clone https://github.com/hithaishreesv-coder/Breast-Cancer-Detection-UNet.git
+
+Open the project folder:
+cd Breast-Cancer-Detection-UNet
+Install the required libraries:
+pip install numpy pandas matplotlib opencv-python pillow scikit-learn tensorflow keras jupyter
+Open the Jupyter Notebook:
+jupyter notebook "unet mask1.ipynb"
+Run all cells in order.
+Repository Files
+unet mask1.ipynb - Jupyter Notebook containing the U-Net implementation
+20022792_FPR-1.docx - Final project report
+README.md - Project documentation
+
+Author
+
+Hithaishree Salur Vijay
